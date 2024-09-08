@@ -1,0 +1,6 @@
+spring:
+  config:
+    name: "Todo Project"
+
+server:
+  port: 8090
